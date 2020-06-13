@@ -1,12 +1,12 @@
 ### Ecoleta
 
 
-##💻  Projeto
+##  Projeto
 
 Ecoleta é um projeto onde se pode cadastrar e consultar pontos de coleta de materiais recicláveis.
 
 
-##:rocket:  Tecnolgias
+##  Tecnolgias
 
 O projeto foi desenvolvido com as tecnologias abaixo:
 
